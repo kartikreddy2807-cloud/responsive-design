@@ -1,2 +1,15 @@
 /* styles.css */
+:root {
+--vintage-grape: #594157ff;
+--dusty-grape: #726da8ff;
+--glaucous: #7d8cc4ff;
+--frosted-blue: #a0d2dbff;
+--frozen-water: #bee7e8ff;
+}
 
+html {
+background-color: var(--vintage-grape);
+}
+h1 {
+  color: var(--dusty-grape);
+}
