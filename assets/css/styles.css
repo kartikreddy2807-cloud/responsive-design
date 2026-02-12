@@ -7,7 +7,7 @@
 --frozen-water: #bee7e8ff;
 }
 
-html {
+html, body {
 background-color: var(--vintage-grape);
 }
 h1 {
